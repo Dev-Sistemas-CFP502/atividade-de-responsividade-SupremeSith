@@ -38,17 +38,6 @@ font-size: 2rem;
   display: inline-block;
 }
 }
-.introducao-img{
-  display: flex;
-  gap: 1rem;
-  border-radius: 10px;
-  align-items: center;
-  background-color: #111111;
-  padding: 1rem;
-  overflow-x: scroll;
-  
-  }
-  
   .introducao-img::-webkit-scrollbar {
   background: #222;
   
@@ -79,6 +68,18 @@ font-size: 2rem;
   }
   
   
+  .introducao-img{
+    display: flex;
+    gap: 1rem;
+    border-radius: 10px;
+    align-items: center;
+    background-color: #111111;
+    padding: 1rem;
+    overflow-x: scroll;
+    
+    }
+    
+
   .botao {
   background: #ffbb00;
   color: #302300;
